@@ -1,4 +1,4 @@
-<h1>Welcome to my profile  <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="drawing" width="60" /></h1>
+<h1>Welcome to my profile &#128075; </h1>
 
 
 <p align="center">
