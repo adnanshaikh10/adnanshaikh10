@@ -12,7 +12,7 @@
 
 🌍 &nbsp; I’m currently working on a game server. </br>
 🌱 &nbsp; I want to learn C#. </br>
-👯 &nbsp; Always looking to collaborate on projects! Contact me at <a href="https://www.adnanshaikh.com/">adnanshaikh.com</a></br>
+👯 &nbsp; Always looking to collaborate on projects! Contact me at <a href="https://www.google.com/">TBD</a></br>
 💬 &nbsp; Ask me about the game I am working on!</br>
 📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/mohammedashaikh/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </br>
 😄 &nbsp; Pronouns: He/Him</br>
